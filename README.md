@@ -1,6 +1,4 @@
 # LunaTV-v2
-该脚本适用于 Ubuntu 18.04+/20.04+/22.04+ 和 CentOS 7+/8+/9+ 系统，采用 Docker + Docker Compose 部署（跨系统兼容性最优，无需手动解决依赖冲突）
-
 # LunaTV 一键部署脚本
 适用于 **Ubuntu 18.04+/20.04+/22.04+** 和 **CentOS 7+/8+/9+** 的 LunaTV 一键部署脚本，基于 Docker 部署，无需手动解决依赖冲突，快速上线。
 
@@ -15,7 +13,7 @@
 ## 🚀 快速一键部署（核心命令）
 直接复制以下单行命令到服务器终端执行（需 root 权限，无需提前下载脚本）：
 ```bash
-curl -sSL https://raw.githubusercontent.com/你的GitHub用户名/jsdzcd/main/deploy_lunatv.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/jsdzcd/main/deploy_lunatv.sh | sudo bash
 ```
 
 ### 命令说明
