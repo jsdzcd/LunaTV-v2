@@ -13,7 +13,7 @@
 ## 🚀 快速一键部署（核心命令）
 直接复制以下单行命令到服务器终端执行（需 root 权限，无需提前下载脚本）：
 ```bash
-curl -sSL https://raw.githubusercontent.com/jsdzcd/main/deploy_lunatv.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/jsdzcd/LunaTV-v2/main/install.sh | sudo bash
 ```
 
 ### 命令说明
